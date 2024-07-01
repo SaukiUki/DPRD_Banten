@@ -71,7 +71,7 @@ function Upper() {
                     <hr className='my-2' />
                     <div className='flex gap-5 text-[16px]'>
                         <p className='font-bold text-red-700 '>POPULAR!</p>
-                        <p className='font-semibold '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut ipsa quia dicta rem error.</p>
+                        <p className='font-semibold '>Pemprov Banten Raih Opini Wajar Tanpa Pengecualian Ke-8 Kali</p>
                     </div>
                 </div>
             </div>
